@@ -1,10 +1,10 @@
 # Practical-assigment-Do-Customers-accept-the-Coupon-5.1
 
-Project Description
+# Project Description
 
 This project aims to analyze customer data and perform customer segmentation using Principal Component Analysis (PCA) and K-Means Clustering. The dataset contains information about customers, including their education, marital status, income, purchase history, and response to marketing campaigns.
 
-Installation
+# Installation
 
 To run this project, you need Python installed on your system. Clone the repository and install the required dependencies by running the following commands:
 
@@ -12,7 +12,7 @@ git clone https://github.com/your-username/customer-segmentation.git
 cd customer-segmentation
 pip install -r requirements.txt
 
-Data
+# Data
 
 The dataset is provided in CSV format and contains the following columns:
 
@@ -37,7 +37,7 @@ The dataset is provided in CSV format and contains the following columns:
     Z_Revenue: Revenue from the campaign
     Response: 1 if the customer accepted the last campaign, 0 otherwise
 
-Usage
+# Usage
 
     First, ensure you have installed all the required dependencies as mentioned in the "Installation" section.
 
@@ -47,15 +47,15 @@ Usage
 
     The customer segmentation results will be displayed in visualizations and clusters in the notebook.
 
-Contributing
+# Contributing
 
 If you have any suggestions or improvements for this project, feel free to create an issue or submit a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+# Contact
 
 For any questions or inquiries, you can reach out to me via email fabianschaberl01@gmail.com Feel free to connect with me on LinkedIn as well! https://www.linkedin.com/in/fabian-schaberl-8a5263214/
 
